@@ -38,7 +38,7 @@ Android Apk:<https://github.com/zyronon/douyin/releases>
 
 **Aviso**：`PC`Debes cambiar el navegador al modo móvil, primero presiona`F12`Para abrir la consola, presione`Ctrl+Shift+M`para obtener una vista previa normalmente
 
-**Aviso**: Por favor utilice su teléfono móvil[a través del navegador](https://viayoo.com/zh-cn/)o vista previa del navegador Chrome. Otros navegadores pueden forzar el vídeo a pantalla completa, lo que hace que no se muestre correctamente.
+**Aviso**: Por favor utilice su teléfono móvil[Via 浏览器](https://viayoo.com/zh-cn/)o vista previa del navegador Chrome. Otros navegadores pueden forzar el vídeo a pantalla completa, lo que hace que no se muestre correctamente.
 
 ## Descargo de responsabilidad
 
@@ -93,12 +93,12 @@ El contenido anterior es toda información pública en Internet.
 
 ## Funciones y sugerencias
 
-El proyecto se encuentra actualmente en las primeras etapas de desarrollo y continuamente se agregan nuevas características. Si tiene alguna característica o sugerencia para el software, no dude en contactarnos.`Issues`criado en
+El proyecto se encuentra actualmente en las primeras etapas de desarrollo y continuamente se agregan nuevas funciones. Si tiene alguna característica o sugerencia para el software, no dude en contactarnos.`Issues`criado en
 Si también le gustan las ideas de diseño de este software, envíelas.`PR`, ¡Muchas gracias por tu apoyo!
 
 ## contáctame
 
-Puedes contactar a mi correo electrónico<a href="mailto:zyronon@163.com">zyronon@163.com</a>
+Puedes contactar a mi correo<a href="mailto:zyronon@163.com">zyronon@163.com</a>
 
 > Comparta mis otros proyectos de código abierto:
 >
