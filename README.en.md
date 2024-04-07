@@ -93,7 +93,7 @@ The above content is all public information on the Internet
 
 ## Features and suggestions
 
-The project is currently in the early stages of development and new features are being added continuously. If you have any features or suggestions for the software, please feel free to contact us.`Issues`raised in
+The project is currently in the early stages of development, and new features are being added continuously. If you have any features or suggestions for the software, please feel free to contact us.`Issues`raised in
 If you also like the design ideas of this software, please submit it`PR`, thank you very much for your support!
 
 ## contact me
